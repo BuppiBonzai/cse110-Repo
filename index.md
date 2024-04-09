@@ -26,5 +26,4 @@ An interesting bit of code I like showing people is:
 ```
 (please don't try this: https://en.wikipedia.org/wiki/Fork_bomb)
 
-I don't know how to incpororate a section link in a useful way so heres a link to top: 
-https://github.com/BuppiBonzai/cse110-Repo/blob/main/index.md#user-page
+I don't know how to incpororate a section link in a useful way so heres a link to [top](https://github.com/BuppiBonzai/cse110-Repo/blob/main/index.md#user-page)
