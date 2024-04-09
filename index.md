@@ -1,2 +1,2 @@
 # User Page
-![This is me.] (docs/IMG_1061.JPG)
+![This is me.] (/docs/IMG_1061.JPG?raw=true "Pic of me")
