@@ -1,5 +1,5 @@
 # User Page
-![This is me.](images/me.jpg "Pic of me")
+![](./images/me.jpg "Pic of me")
 (why won't markdown let me resize images)
 ## About me
 I mostly play video games, guitar, and mess around with my cats. I prefer C++ over other languages, mostly because its what I'm most familiar with at the moment. Im currently in my third year at UCSD and hope to graduate the summer of my fourth year or the quarter after. If you want to see my cats, you can find images of them [here](/images/cat1.jpg) and [here](/images/cat2.jpg). 
